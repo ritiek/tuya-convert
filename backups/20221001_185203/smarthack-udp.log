@@ -1,0 +1,7 @@
+Listening for Tuya broadcast on UDP 6666
+Listening for encrypted Tuya broadcast on UDP 6667
+^CListening for Tuya broadcast on UDP 6666
+Listening for encrypted Tuya broadcast on UDP 6667
+^CListening for Tuya broadcast on UDP 6666
+Listening for encrypted Tuya broadcast on UDP 6667
+10.42.42.21 {"ip":"10.42.42.21","gwId":"33003134d8f15bc29fce","active":2,"ability":0,"mode":0,"encrypt":true,"productKey":"keyj979nf3q3theh","version":"3.3"}

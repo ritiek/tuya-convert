@@ -1,0 +1,5 @@
+[32m[I 221001 18:56:22 web:2271][m 200 GET / (10.42.42.22) 10.58ms
+[32m[I 221001 18:56:22 web:2271][m 302 GET /api?key=7bae8dfd0e534e838a944fa8b6a79c309b1a08cc&out=http%3A%2F%2F10.42.42.1&format=txt (10.42.42.22) 20.52ms
+[32m[I 221001 18:56:22 web:2271][m 200 GET /?key=7bae8dfd0e534e838a944fa8b6a79c309b1a08cc&out=http%3A%2F%2F10.42.42.1&format=txt (10.42.42.22) 9.49ms
+[32m[I 221001 18:56:24 web:2271][m 302 GET /favicon.ico (10.42.42.22) 19.77ms
+^CReceived SIGINT, exiting...

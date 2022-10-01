@@ -1,0 +1,33 @@
+1664627977: mosquitto version 2.0.11 starting
+1664627977: Using default config.
+1664627977: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1664627977: Create a configuration file which defines a listener to allow remote access.
+1664627977: For more details see https://mosquitto.org/documentation/authentication-methods/
+1664627977: Opening ipv4 listen socket on port 1883.
+1664627977: Opening ipv6 listen socket on port 1883.
+1664627977: mosquitto version 2.0.11 running
+^C1664630024: mosquitto version 2.0.11 terminating
+1664630235: mosquitto version 2.0.11 starting
+1664630235: Using default config.
+1664630235: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1664630235: Create a configuration file which defines a listener to allow remote access.
+1664630235: For more details see https://mosquitto.org/documentation/authentication-methods/
+1664630235: Opening ipv4 listen socket on port 1883.
+1664630235: Opening ipv6 listen socket on port 1883.
+1664630235: mosquitto version 2.0.11 running
+^C1664630390: mosquitto version 2.0.11 terminating
+1664630412: mosquitto version 2.0.11 starting
+1664630412: Using default config.
+1664630412: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1664630412: Create a configuration file which defines a listener to allow remote access.
+1664630412: For more details see https://mosquitto.org/documentation/authentication-methods/
+1664630412: Opening ipv4 listen socket on port 1883.
+1664630412: Opening ipv6 listen socket on port 1883.
+1664630412: mosquitto version 2.0.11 running
+1664630450: New connection from 127.0.0.1:54927 on port 1883.
+1664630450: New client connected from 127.0.0.1:54927 as auto-AD2E07BD-36C2-0146-3162-5E0D6E45AEB5 (p2, c1, k60).
+1664630450: No will message specified.
+1664630450: Sending CONNACK to auto-AD2E07BD-36C2-0146-3162-5E0D6E45AEB5 (0, 0)
+1664630450: Received PUBLISH from auto-AD2E07BD-36C2-0146-3162-5E0D6E45AEB5 (d0, q0, r0, m0, 'smart/device/in/33003134d8f15bc29fce', ... (111 bytes))
+1664630450: Received DISCONNECT from auto-AD2E07BD-36C2-0146-3162-5E0D6E45AEB5
+1664630450: Client auto-AD2E07BD-36C2-0146-3162-5E0D6E45AEB5 disconnected.

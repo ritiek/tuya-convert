@@ -1,0 +1,134 @@
+System info
+===========
+61ba060
+Linux raspberrypi 5.15.61+ #1579 Fri Aug 26 11:08:59 BST 2022 armv6l GNU/Linux
+OpenSSL 1.1.1n  15 Mar 2022
+Dnsmasq version 2.85  Copyright (c) 2000-2021 Simon Kelley
+Compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset auth cryptohash DNSSEC loop-detect inotify dumpfile
+
+This software comes with ABSOLUTELY NO WARRANTY.
+Dnsmasq is free software, and you are welcome to redistribute it
+under the terms of the GNU General Public License, version 2 or 3.
+hostapd v2.9
+User space daemon for IEEE 802.11 AP management,
+IEEE 802.1X/WPA/WPA2/EAP/RADIUS Authenticator
+Copyright (c) 2002-2019, Jouni Malinen <j@w1.fi> and contributors
+Python 3.9.2
+===========
+Attempting to stop wpa_supplicant
+Stopping NetworkManager...
+Failed to stop network-manager.service: Unit network-manager.service not loaded.
+Configuring AP interface...
+RTNETLINK answers: File exists
+Starting DNSMASQ server...
+Starting AP on wlan0...
+Configuration file: /dev/stdin
+Using interface wlan0 with hwaddr b8:27:eb:0b:bd:ea and ssid "vtrust-flash"
+wlan0: interface state UNINITIALIZED->ENABLED
+wlan0: AP-ENABLED 
+wlan0: AP-STA-CONNECTED d8:b0:53:4a:59:9d
+wlan0: AP-STA-CONNECTED f4:4e:e3:b5:34:f7
+wlan0: AP-STA-DISCONNECTED d8:b0:53:4a:59:9d
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: interface state ENABLED->DISABLED
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-DISCONNECTED f4:4e:e3:b5:34:f7
+wlan0: AP-DISABLED 
+wlan0: CTRL-EVENT-TERMINATING 
+nl80211: deinit ifname=wlan0 disabled_11b_rates=0
+AP closed
+Stopping DNSMASQ server...
+Restarting NetworkManager...
+Failed to restart network-manager.service: Unit network-manager.service not found.
+System info
+===========
+61ba060
+Linux raspberrypi 5.15.61+ #1579 Fri Aug 26 11:08:59 BST 2022 armv6l GNU/Linux
+OpenSSL 1.1.1n  15 Mar 2022
+Dnsmasq version 2.85  Copyright (c) 2000-2021 Simon Kelley
+Compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset auth cryptohash DNSSEC loop-detect inotify dumpfile
+
+This software comes with ABSOLUTELY NO WARRANTY.
+Dnsmasq is free software, and you are welcome to redistribute it
+under the terms of the GNU General Public License, version 2 or 3.
+hostapd v2.9
+User space daemon for IEEE 802.11 AP management,
+IEEE 802.1X/WPA/WPA2/EAP/RADIUS Authenticator
+Copyright (c) 2002-2019, Jouni Malinen <j@w1.fi> and contributors
+Python 3.9.2
+===========
+Attempting to stop wpa_supplicant
+Stopping NetworkManager...
+Failed to stop network-manager.service: Unit network-manager.service not loaded.
+Configuring AP interface...
+RTNETLINK answers: File exists
+Starting DNSMASQ server...
+Starting AP on wlan0...
+Configuration file: /dev/stdin
+Using interface wlan0 with hwaddr b8:27:eb:0b:bd:ea and ssid "vtrust-flash"
+wlan0: interface state UNINITIALIZED->ENABLED
+wlan0: AP-ENABLED 
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED f4:4e:e3:b5:34:f7
+wlan0: AP-STA-CONNECTED d8:b0:53:4a:59:9d
+wlan0: AP-STA-DISCONNECTED d8:b0:53:4a:59:9d
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:b0:53:4a:59:9d
+wlan0: interface state ENABLED->DISABLED
+wlan0: AP-STA-DISCONNECTED d8:b0:53:4a:59:9d
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-DISCONNECTED f4:4e:e3:b5:34:f7
+wlan0: AP-DISABLED 
+wlan0: CTRL-EVENT-TERMINATING 
+nl80211: deinit ifname=wlan0 disabled_11b_rates=0
+AP closed
+Stopping DNSMASQ server...
+Restarting NetworkManager...
+Failed to restart network-manager.service: Unit network-manager.service not found.
+System info
+===========
+61ba060
+Linux raspberrypi 5.15.61+ #1579 Fri Aug 26 11:08:59 BST 2022 armv6l GNU/Linux
+OpenSSL 1.1.1n  15 Mar 2022
+Dnsmasq version 2.85  Copyright (c) 2000-2021 Simon Kelley
+Compile time options: IPv6 GNU-getopt DBus no-UBus i18n IDN2 DHCP DHCPv6 no-Lua TFTP conntrack ipset auth cryptohash DNSSEC loop-detect inotify dumpfile
+
+This software comes with ABSOLUTELY NO WARRANTY.
+Dnsmasq is free software, and you are welcome to redistribute it
+under the terms of the GNU General Public License, version 2 or 3.
+hostapd v2.9
+User space daemon for IEEE 802.11 AP management,
+IEEE 802.1X/WPA/WPA2/EAP/RADIUS Authenticator
+Copyright (c) 2002-2019, Jouni Malinen <j@w1.fi> and contributors
+Python 3.9.2
+===========
+Stopping NetworkManager...
+Failed to stop network-manager.service: Unit network-manager.service not loaded.
+Configuring AP interface...
+RTNETLINK answers: File exists
+RTNETLINK answers: File exists
+Starting DNSMASQ server...
+Starting AP on wlan0...
+Configuration file: /dev/stdin
+Using interface wlan0 with hwaddr b8:27:eb:0b:bd:ea and ssid "vtrust-flash"
+wlan0: interface state UNINITIALIZED->ENABLED
+wlan0: AP-ENABLED 
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED f4:4e:e3:b5:34:f7
+wlan0: AP-STA-CONNECTED d8:b0:53:4a:59:9d
+wlan0: AP-STA-DISCONNECTED d8:b0:53:4a:59:9d
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:b0:53:4a:59:9d
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-CONNECTED d8:f1:5b:c2:9f:ce
+wlan0: AP-STA-DISCONNECTED d8:b0:53:4a:59:9d

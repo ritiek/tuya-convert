@@ -1,0 +1,10 @@
+wlan0: AP-STA-DISCONNECTED d8:f1:5b:c2:9f:ce
+wlan0: interface state ENABLED->DISABLED
+wlan0: AP-STA-DISCONNECTED f4:4e:e3:b5:34:f7
+wlan0: AP-DISABLED 
+wlan0: CTRL-EVENT-TERMINATING 
+nl80211: deinit ifname=wlan0 disabled_11b_rates=0
+AP closed
+Stopping DNSMASQ server...
+Restarting NetworkManager...
+Failed to restart network-manager.service: Unit network-manager.service not found.

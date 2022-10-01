@@ -52,7 +52,6 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 
@@ -105,12 +104,10 @@ venv.bak/
 
 # Node
 node_modules/
-*.bin
-device-info.txt
 scripts/smartconfig/package-lock.json
 
 # firmware backups directory
-backups/
+# backups/
 
 # flag files
 eula_accepted
